@@ -1,0 +1,30 @@
+{
+  "name": "simple-portfolio",
+  "version": "1.0.0",
+  "description": "Using NextJS to create a portfolio site\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D()\u001b[DReactJS) to create a portfolio site",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collinsboss18/nextjs-simple-portfolio.git"
+  },
+  "keywords": [
+    "Nextjs"
+  ],
+  "author": "Collins Charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Collinsboss18/nextjs-simple-portfolio/issues"
+  },
+  "homepage": "https://github.com/Collinsboss18/nextjs-simple-portfolio#readme",
+  "dependencies": {
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react.dom": "^1.0.1"
+  }
+}
