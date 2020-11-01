@@ -16,7 +16,7 @@ const Layout = ({ children, title }) => {
 		<div>
 			<Head>
 				<title>Portfolio</title>
-				<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css' />
+				<meta name='viewport' content='width=device-width' />
 			</Head>
 			<header>
 				<Link href='/'>
@@ -29,7 +29,6 @@ const Layout = ({ children, title }) => {
 					<a>Hire Me</a>
 				</Link>
 			</header>
-			<h1>{title}</h1>
 			{children}
 			<footer>CopyWrite &copy; {new Date().getFullYear()}</footer>
 		</div>
